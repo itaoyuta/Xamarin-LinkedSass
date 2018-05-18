@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "all": "npm run watch & npm run postcss",
+    "watch": "node-sass ./scss/style.scss -o ./dist/ -wr --output-style expanded",
+    "postcss": "postcss ./dist/style.css -o ./css/style.css -w"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "postcss": "^6.0.22",
+    "postcss-cli": "^5.0.0",
+    "postcss-selector-replace": "^1.0.2"
+  }
+}

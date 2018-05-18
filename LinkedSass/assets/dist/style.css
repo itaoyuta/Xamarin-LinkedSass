@@ -1,0 +1,13 @@
+.l-body {
+  background-color: #c0c0c0;
+  font-size: 14;
+}
+
+.l-body .text-main {
+  color: red;
+}
+
+[base]contentpage {
+  background-color: blue;
+  padding: 20;
+}
