@@ -1,4 +1,4 @@
-#LinkedSass project  
+# LinkedSass project  
 
 This project is the minimum skeleton necessary to advance Xamarin CSS development in sass format.
 
