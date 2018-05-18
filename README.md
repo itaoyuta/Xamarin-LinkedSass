@@ -1,4 +1,5 @@
-#LinkedSass project
+#LinkedSass project  
+
 This project is the minimum skeleton necessary to advance Xamarin CSS development in sass format.
 
 ## 0. Verification environment
